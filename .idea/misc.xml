@@ -38,18 +38,8 @@
       <property name="caretWidth" class="java.lang.Integer" />
     </properties>
   </component>
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$/.." value="1493832691000" />
-        <entry key="$PROJECT_DIR$/../Machiman" value="7469376125000" />
-        <entry key="$PROJECT_DIR$/../Maxis" value="5927767924000" />
-        <entry key="$USER_HOME$/Documents/LibGDX" value="8828807298000" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
