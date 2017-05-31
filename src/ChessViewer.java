@@ -22,12 +22,15 @@ public class ChessViewer {
         frame.setPreferredSize(new Dimension(WINDOW_WIDTH, WINDOW_HEIGHT));
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(false);
+        JPanel panel = new JPanel();
+        panel.setBackground(Color.WHITE);
+        //panel.add(new JLabel(new ImageIcon("assets/White_Bishop.png")));
+        frame.add(panel);
         frame.pack();
         frame.setVisible(true);
     }
 
     public void showBoard() {
-        System.out.println("Showing Board");
         // Image overlay of the chess board
     }
 }
